@@ -1,2 +1,2 @@
 # crt-driver2
-New circuits for driving cathode ray tubes
+This repository will eventually contain some cool new circuits for driving small cathode ray tubes.
